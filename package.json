@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "chokidar": "^4.0.1",
-    "glob": "10.4",
+    "glob": "11.1",
     "ignore": "^6.0.2",
     "launch-editor": "^2.6.0",
     "open": "^10.1.0",
